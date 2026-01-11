@@ -1,0 +1,6 @@
+/**
+ * Component exports
+ */
+export { SongListItem } from './SongListItem';
+export { MiniPlayer } from './MiniPlayer';
+
